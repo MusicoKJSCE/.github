@@ -2,6 +2,12 @@
 
 # Musico - Music Recommendation System
 
+## Team Members
+- [Dhruv Solanki](https://github.com/Dhruvsolanki345)
+- [Anurag Singh](https://github.com/heyanurag)
+- [Umang Thadani](https://github.com/thadaniumang)
+- [Aayush Kapoor](https://github.com/aayush-kapoor)
+
 ## Introduction
 With the rise of digital content distribution, people now have access to music collections on an unprecedented scale. Commercial music libraries easily exceed 15 million songs, which vastly exceeds the listening capability of any single person. With millions of songs to choose from, people sometimes feel overwhelmed. Thus, an efficient music recommender system is necessary in the interest of both music service providers and customers. Users will have no more pain to make decisions on what to listen while music companies can maintain their user group and attract new users by improving users’ satisfaction. This music recommendation system also helps the users to listen to the music based on their mood using which, an angry person can calm himself down by listening to the recommended songs.
 
